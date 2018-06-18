@@ -1,0 +1,15 @@
+{
+  "name": "Ski_jumping_Results_with_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateTotalPoints.js",
+  "scripts": {
+    "test": "mocha ./*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
